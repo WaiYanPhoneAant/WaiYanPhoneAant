@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Wai Yan Phone Aant</h1>
 <h3 align="center">Web Developer</h3> -->
-![Myname](https://github.com/WaiYanPhoneAant/WaiYanPhoneAant/blob/main/myname1.gif)
+![Myname](https://github.com/WaiYanPhoneAant/WaiYanPhoneAant/blob/main/myName.gif)
 - 🌱 I’m currently learning **web design,Laravel and vue**
 <h3 align="left">Connect with me:</h3>
 <p align="left">

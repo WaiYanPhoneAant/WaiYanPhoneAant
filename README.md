@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Wai Yan Phone Aant</h1>
 <h3 align="center">Web Developer</h3> -->
 ![Myname](https://github.com/WaiYanPhoneAant/WaiYanPhoneAant/blob/main/myName.gif)
-- 🌱 I’m currently learning **web design,Laravel and vue**
+- 🌱 I’m currently learning **React and React Native**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/waiyan.pxoneaant.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waiyan.pxoneaant.1" height="30" width="40" /></a>

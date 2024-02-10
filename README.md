@@ -4,9 +4,9 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs" /><br/>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,alpinejs,laravel,mysql" />
 </div>
 

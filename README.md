@@ -7,7 +7,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs" /><br/>
-    <img src="https://skillicons.dev/icons?i=dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter," /><br/>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,alpinejs,laravel,mysql" />
 </div>
 

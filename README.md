@@ -4,7 +4,7 @@
 </br></br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,ts,bootstrap,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=alpinejs,laravel,mysql,sqlite,dart,flutter,vue,react," /><br/>
+    <img src="https://skillicons.dev/icons?i=alpinejs,laravel,mysql,sqlite,dart,flutter,vue,expressjs,nextjs,nestjs,nodejs" /><br/>
 </div>
 
 

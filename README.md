@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="[waiyanphoneaant.com](https://www.waiyanphoneaant.com/)" target="_blank">
+  <a href="https://www.waiyanphoneaant.com/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/wai-yan-phone-aant-a9b370273" target="_blank">
